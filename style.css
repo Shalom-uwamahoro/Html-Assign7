@@ -5,6 +5,9 @@
     background-color: rgb(101,161,91);
     font-size: 30px;
     height: 70px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
 }
 
 .pwelcome{
@@ -36,6 +39,7 @@
 .nav2{
     display: flex;
     gap: 4%;
+    margin-top: 3%;
 }
 
 .h1Nav{
